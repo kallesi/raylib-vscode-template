@@ -1,4 +1,4 @@
-Braindead simple way of including raylib binaries into your vscode C++ project
+Add raylib binaries into your vscode C++ project in `5 minutes`
 ---
 # Steps
 ### Clone repository
